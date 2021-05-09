@@ -2,8 +2,6 @@ package chapter2
 
 import chapter2.Color.*
 import java.io.BufferedReader
-import java.io.StringReader
-import java.util.*
 
 class WhenColor {
 }
